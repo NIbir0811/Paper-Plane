@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 670bb42d8aae0ca41b12be2ac2105a5a
+timeCreated: 1490308203
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Techno Agony
+  fontNames:
+  - Techno Agony
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a262b809dec904541b89b001259a9faf
+timeCreated: 1490308350
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Words In My Heart
+  fontNames:
+  - Words In My Heart
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
